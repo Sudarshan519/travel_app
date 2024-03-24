@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Monument to Salavat Yulaev ",
+        "image": "assets/images/Salavat Yulaev.png",
+        "desc": "A truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people with A truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people with...",
+        "rating": "5.0",
+        "services": [
+            {
+                "label": "from 90 $",
+                "image": "assets/icons/price.png"
+            },
+            {
+                "label": "6 часа",
+                "image": "assets/icons/distance.png"
+            },
+            {
+                "label": "Full Board",
+                "image": "assets/icons/breakfast.png"
+            },
+            {
+                "label": "Insurance",
+                "image": "assets/icons/ensurance.png"
+            }
+        ]
+    },
+ 
+    {
+        "name": "Shulgaт-Tash cave",
+        "image": "assets/images/ShulgaTashcave.png",
+        "desc": "A truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people withA truly amazing example of the creation of nature, the Kapova cave with cave paintings of ancient people with...",
+        "rating": "3.2",
+        "services": [
+            {
+                "label": "from 90 $",
+                "image": "assets/icons/price.png"
+            },
+            {
+                "label": "6 часа",
+                "image": "assets/icons/distance.png"
+            },
+            {
+                "label": "Full Board",
+                "image": "assets/icons/breakfast.png"
+            },
+            {
+                "label": "Insurance",
+                "image": "assets/icons/ensurance.png"
+            }
+        ]
+    }
+]
